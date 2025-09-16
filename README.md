@@ -30,4 +30,4 @@ MediaPipe / dlib (for face detection & landmarks)
 
 NumPy & Pandas (for data handling)
 
-scikit-learn (for similarity / recognition
+scikit-learn (for similarity / recognition)
