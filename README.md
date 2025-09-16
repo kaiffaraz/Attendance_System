@@ -32,3 +32,6 @@ MediaPipe / dlib (for face detection & landmarks)
 NumPy & Pandas (for data handling)
 
 scikit-learn (for similarity / recognition)
+
+OUTPUT:
+![image alt](https://github.com/kaiffaraz/Attendance_System/blob/main/Screenshot%20(42).png?raw=true)
