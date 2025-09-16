@@ -1,5 +1,4 @@
-Attendance System (Face Recognition Based)
-
+📌 Attendance System (Face Recognition Based)
 📖 Overview
 
 The Attendance System is a Python-based project that uses Face Recognition and Computer Vision to automate attendance marking.
@@ -31,4 +30,4 @@ MediaPipe / dlib (for face detection & landmarks)
 
 NumPy & Pandas (for data handling)
 
-scikit-learn (for similarity / recognition)
+scikit-learn (for similarity / recognition
